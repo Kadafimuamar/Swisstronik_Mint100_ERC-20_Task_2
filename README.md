@@ -35,9 +35,9 @@ https://faucet.testnet.swisstronik.com/
 
 1. 
 
-    ```bash
+```bash
     PRIVATE_KEY=YOUR-PRIVATE-KEY
-    ```
+```
 
 
 
