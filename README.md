@@ -1,4 +1,4 @@
-# swisstronik-erc-20
+# Swisstronik-erc-20
 
 This repository contains a setup for deploying and interacting with an ERC-20 token on the Swisstronik testnet using Hardhat. The setup includes scripts for deploying the contract, minting tokens, and transferring tokens, utilizing encrypted transactions with Swisstronik.
 
@@ -18,8 +18,8 @@ https://faucet.testnet.swisstronik.com/
 1. Clone the repository:
 
     ```bash
-    git clone
-    cd swisstronik-erc-20
+    git clone https://github.com/Kadafimuamar/Swisstronik_Mint100_ERC-20_Task_2.git
+    cd Swisstronik_Mint100_ERC-20_Task_2
     ```
 
 2. Run
